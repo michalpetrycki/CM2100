@@ -1,0 +1,20 @@
+DRINK,Cola,112,FALSE,cola.png,
+DRINK,Water,150,FALSE,water.png,
+DRINK,Beer,400,TRUE,beer.png,
+DRINK,OrangeJuice,200,FALSE,orange.png,
+DRINK,Sprite,120,FALSE,sprite.png,
+DRINK,Coffee,140,FALSE,coffee.png,
+DRINK,Gin Tonic,240,TRUE,gin.png,
+SIDE,Chips,300,no sauce,chips.png,
+SIDE,Chips,300,tomato sauce,chips-tomato.png,
+SIDE,Salad,250,no sauce,salad.png,
+SIDE,Salad,250,dressing,salad-dressing.png,
+SIDE,Onion Rings,330,no sauce,onion-rings.png,
+SIDE,Pinto Beans,240,salsa,pinto-salsa.png,
+SIDE,Garlic Bread,310,butter,garlic-bread.png,
+SANDWICH,BLT-W,450,WHITE,Bacon+Lettuce+Tomato,blt.png
+SANDWICH,Club,650,WHOLEMEAL,Chicken+Bacon+Lettuce+Egg,club.png
+SANDWICH,Tuna,400,WHITE,Tuna+Sweetcorn,tuna.png
+SANDWICH,Grilled Chicken,600,RYE,Bacon+Cheddar+Tomatoes,grill-chicken.png
+SANDWICH,Black Angus Club,540,WHOLEMEAL,RoastBeef+Bacon+Onion,bac.png
+SANDWICH,Spicy Southwest Chicken,480,PITA,Chicken+Guacamole+Relish,southwest.png

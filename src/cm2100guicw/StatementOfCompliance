@@ -1,0 +1,61 @@
+Include your Statement of Compliance here:
+
+Name: Michal Petrycki
+Student number: 1707586
+
+Requirement and Outcome
+
+1  Main Window Contents
+    Done. Fully working. The pin for Employee is '1133'.
+
+2  Closing the System
+    Done. Fully working. 
+
+3  Food and Drink Item Menu
+    - In Menu class I commented out line which prints length of parts for SIDE type.
+    - In Menu class I added printing a line about success while reading data.
+    - In Menu class I added line for informing about error and printing it.
+    - In Menu class I commented out line for printing items list for each item.
+    - In Menu class, read data function, I changed 'size' variable for SIDE type
+        to 'sauce'.
+    - In Menu class I added some more data. 
+    - Added some @Override and final annotations.
+
+4  Customer Order Details
+    Done. Fully working.
+
+5  Adding new Sandwich items to the main Menu
+    Done. Fully working.
+
+6  Adding new Side items to the main Menu
+    Done. Fully working.
+
+7  Adding new Drink items to the main Menu
+    Done. Fully working.
+
+8  Saving the main Food and Drink Menu to a text File
+    Done. Fully working.
+
+9  Loading the main Food and Drink Menu from a text File
+    Done. Fully working.
+
+10 Starting a new customer order
+    Done. Fully working.
+
+11 Displaying customer order details
+    Done. Fully working.
+
+12 Adding Items to the Customer Order
+    Done. Fully working.
+
+13 Images of the Menu Items
+    Done. Fully working.
+
+14 Sortable Food and Drink Menu(s)
+    Done. Fully working.
+
+15 Changing Bread Type for a Sandwich in the Customer Order
+    Done. Fully working.
+
+16 Add/Change sauce for a Side in the Customer Order
+    Done. Fully working.
