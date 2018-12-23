@@ -1,6 +1,6 @@
 <h1>CM2100 GUI COURSEWORK</h1>
 
-Main application allows to act as customer or as an admin/employee. 
+Application allows to act as customer or as an admin/employee. 
 
 <br />
 Customer mode: <br />
